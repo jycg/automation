@@ -1,3 +1,2 @@
 # automation
-Repositorio para app movil de automatización
-Se agregan nuevos archivos
+Repositorio para app movil de automatización utilizando ionic 3
